@@ -1,0 +1,13 @@
+{
+  "name": "wonderful-scratch-off",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/evanhongo/wonderful-scratch-off",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
